@@ -1,0 +1,9 @@
+city_id,city_name,country_code,latitude,longitude,timezone,population
+1,Berlin,DE,52.52,13.41,Europe/Berlin,3700000
+2,Paris,FR,48.85,2.35,Europe/Paris,2100000
+3,Madrid,ES,40.42,-3.70,Europe/Madrid,3200000
+4,Rome,IT,41.90,12.50,Europe/Rome,2800000
+5,Warsaw,PL,52.23,21.01,Europe/Warsaw,1800000
+6,Amsterdam,NL,52.37,4.90,Europe/Amsterdam,900000
+7,Vienna,AT,48.21,16.37,Europe/Vienna,1900000
+8,Prague,CZ,50.08,14.44,Europe/Prague,1300000
